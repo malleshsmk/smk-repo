@@ -1,0 +1,40 @@
+
+
+.eldorado{
+	margin-left:22%;
+	border:1px solid grey;
+	width:50%;
+	box-shadow:0px 0px 4px grey,
+		   0px 0px 8px grey,
+		   0px 0px 12px grey;
+	
+}
+
+.dorado{
+	width:40%;
+	height:70px;
+}
+
+.main{
+	margin-left:40%;
+	target="_blank_";
+	method:post;
+}
+
+.contents{
+	margin-left:54px;
+	margin-top:0px;
+}
+
+.display{
+	display:flex;
+}
+
+.source{
+	margin-left:90px;
+	margin-top:0px;
+}
+
+.box {
+	width:100%;
+}
